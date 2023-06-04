@@ -30,6 +30,10 @@ To improve the Life360 app, a usability test is necessary to identify areas for 
 
 Following this pilot usability test, I gained insight into how a user would interact with the website and how I, as a UX researcher, should moderate a UX test.
 
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110_assignment02_yh/">Read More about the Usability Testing</a>
+</p>
+
 ## User Research:
 
 After identify potential improvements to Life360, I made the analysis of target users who use this type of app, and conducted an interview to whom he is qualify as a target user.
@@ -40,6 +44,10 @@ One observation I made is that people often compare location tracking apps based
 
 Using these insights, I was ready to start thinking about potential users for my redesign.
 
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110_03_sp2023/">Read More about the User Research</a>
+</p>
+
 ## UX Storytelling:
 
 After studying potential users, I developed two personas:
@@ -48,6 +56,10 @@ After studying potential users, I developed two personas:
 - Max: Max, a high school student, is using a location tracking and driving safety app to alleviate his parents' worries about his inexperience as a new driver. The app provides feedback on his driving behavior and helps him improve his skills while balancing his desire for independence with safety concerns.
 
 Next, I created empathy maps for each persona, as well as two scenarios related to these personas. These scenarios include what they say, do, think, and feel when encountering problems that can be solved by installing TribeTrack.
+
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110-sp2023-a04/">Read More about the UX Storytelling</a>
+</p>
 
 ## Wireframe and Low-Fidelity Prototype:
 
@@ -73,15 +85,27 @@ Second task - Set up geofence space:
 
 Once I set up the low-fidelity prototype, I had my roommate test it to ensure that the interfaces and steps were clear to everyone.
 
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110-sp2023-a05lowfidelityprototype/">Read More about the Wireframe and Low-Fidelity Prototype</a>
+</p>
+
 ## Graphic Design Element Variation:
 
 The objective of the TribeTrack interface is to create a consistent and cohesive design language, integrating design elements such as font, shape, color, and layout to enhance the wireframe and improve the user experience. The app focuses on tracking family members, creating customized geofences, and providing emergency calling functionality, requiring more words and settings interactions than graphic interactions for a clear and concise user interface.
 
 The final decision of the graphic design elements are orange color, SF Pro font type, and 4x9 layout.
 
-## High-Fidelity Prototype:
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110_a06_sp2023/">Read More about the Graphic Design Element Variation</a>
+</p>
+
+## High-Fidelity Prototype and Final Design:
 
 During testing of the high-fidelity prototype of TribeTrack, the tester successfully completed two tasks: setting up an emergency call to their mom's phone number through the safety page and setting up a new geofence from the homepage by adding a new place and inputting it as their home address with ease.
+
+<p align="center">
+    <a href="https://mori-sam.github.io/dh110-a7-highfidelity/">Read More about the High-Fidelity Prototype</a>
+</p>
 
 ## Evaluation and Revision History:
 
