@@ -30,7 +30,7 @@ Overall, the Life360 app has a very good heuristic evaluation, with strengths in
 ## App #2: Geozilla
 [GeoZilla](https://geozilla.com) is a location-based app that is designed to help families stay connected and safe. The app uses GPS tracking to provide real-time location updates for family members, allowing users to see where their loved ones are on a map and communicate with them easily. With features such as location sharing, geofencing, and alerts for when a family member arrives or leaves a location, GeoZilla helps families keep track of each other's whereabouts and ensure that everyone is safe and accounted for. The app is available on both iOS and Android devices and has gained popularity as a convenient and user-friendly tool for families looking to stay connected in today's fast-paced world.
 
-<img src="./geozilla1.PNG" width="45%"><img src="./geozilla2.PNG" width="45%">
+<img src="https://mori-sam.github.io/dh110-sp23-assignment01/geozilla1.PNG" width="45%"><img src="https://mori-sam.github.io/dh110-sp23-assignment01/geozilla2.PNG" width="45%">
 
 ### Heuristics Evaluation:
 
