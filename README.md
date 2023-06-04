@@ -30,9 +30,7 @@ After conducting the heuristic analysis, I identified potential strengths and im
 
 ## Competitor analysis: Usability Testing
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://drive.google.com/file/d/1lrEcRa0DZH_qDHyAwS4vQJDcBjX7iGL1/view" frameborder="0" allowfullscreen></iframe>
-</div>
+[![The Syncopated Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
 
 To improve the Life360 app, a usability test is necessary to identify areas for improvement. The test will measure the app's effectiveness, efficiency, and satisfaction. Task 1 asks users to create and locate a new geofence, simulating the behavior of parent users. Task 2 tests the user's basic understanding of the app's features and invitation code by asking them to create and leave a new circle. Task 3 tests user control and freedom by simulating a situation where they need to cancel their Life360 membership subscription. All three tasks aim to identify and improve usability concerns regarding visibility, efficiency of use, and user control and freedom.
 
