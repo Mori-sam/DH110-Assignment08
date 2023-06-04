@@ -19,7 +19,7 @@ I conducted a heuristic analysis of the Life360 app to identify potential design
 Overall, the Life360 app was found to have a very good heuristic evaluation. It excels in areas such as visibility of system status, match between system and the real world, user control and freedom, consistency and standards, and help and documentation. The app is well-designed, intuitive, and provides a range of useful features for families. However, there are some areas where the app could be improved, such as providing more customization options, warnings or prompts for potential errors, and interactive support options. Despite these areas for improvement, the app provides a solid user experience and is a valuable tool for families looking to stay connected and safe.
 
 <p align="center">
-    <a href="[Read More about the Heuristic Evaluation](https://mori-sam.github.io/dh110-sp23-assignment01/)">Read More about the Heuristic Evaluation</a>
+    <a href="https://mori-sam.github.io/dh110-sp23-assignment01/">Read More about the Heuristic Evaluation</a>
 </p>
 
 After conducting the heuristic analysis, I identified potential strengths and improvements in Life360's design. I then needed to corroborate these findings with actual user feedback.
