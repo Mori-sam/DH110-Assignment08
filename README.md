@@ -29,9 +29,9 @@ Overall, the Life360 app was found to have a very good heuristic evaluation. It 
 After conducting the heuristic analysis, I identified potential strengths and improvements in Life360's design. I then needed to corroborate these findings with actual user feedback.
 
 ## Competitor analysis: Usability Testing
-
-[![The Syncopated Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
-
+<p align="center">
+    [![The Syncopated Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
+</p>
 To improve the Life360 app, a usability test is necessary to identify areas for improvement. The test will measure the app's effectiveness, efficiency, and satisfaction. Task 1 asks users to create and locate a new geofence, simulating the behavior of parent users. Task 2 tests the user's basic understanding of the app's features and invitation code by asking them to create and leave a new circle. Task 3 tests user control and freedom by simulating a situation where they need to cancel their Life360 membership subscription. All three tasks aim to identify and improve usability concerns regarding visibility, efficiency of use, and user control and freedom.
 
 Following this pilot usability test, I gained insight into how a user would interact with the website and how I, as a UX researcher, should moderate a UX test.
