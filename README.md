@@ -14,6 +14,10 @@ TribeTrack's interface is designed to be clean, intuitive, and user-friendly, wi
 
 ## Competitor analysis: Heuristic Evaluation
 
+<p align="center">
+    <img src="./7441685921494_.pic_hd.jpg" alt="Heuristic Evaluation">
+</p>
+
 I conducted a heuristic analysis of the Life360 app to identify potential design flaws. I then compared the heuristic results with those of its competitor, Geozilla, and found that Life360 was the biggest competitor.
 
 Overall, the Life360 app was found to have a very good heuristic evaluation. It excels in areas such as visibility of system status, match between system and the real world, user control and freedom, consistency and standards, and help and documentation. The app is well-designed, intuitive, and provides a range of useful features for families. However, there are some areas where the app could be improved, such as providing more customization options, warnings or prompts for potential errors, and interactive support options. Despite these areas for improvement, the app provides a solid user experience and is a valuable tool for families looking to stay connected and safe.
