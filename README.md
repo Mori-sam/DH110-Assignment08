@@ -83,20 +83,16 @@ During testing of the high-fidelity prototype of TribeTrack, the tester successf
 
 [Low-Fidelity test](https://mori-sam.github.io/dh110-sp2023-a05lowfidelityprototype/6971683585449_.pic_hd.jpg)
 
-TribeTrack's SOS calling button needs to be more symbolic and easier to understand. The icons for existing geofences need to be clearer. Changing the "Done" button to "Save" will help users understand that they will return to the previous menu after saving geofence customization. Adding more shortcuts to features is a future goal.
+> TribeTrack's SOS calling button needs to be more symbolic and easier to understand. The icons for existing geofences need to be clearer. Changing the "Done" button to "Save" will help users understand that they will return to the previous menu after saving geofence customization. Adding more shortcuts to features is a future goal.
 
 [impression testing](https://ucla.zoom.us/rec/share/XAC87ajr2To0k33DwEg2JMwagfGeOcI7nAgOmNusEdP8-0R2cEQLVQyO0hBQiwfM.KS1QvEqbWpxEJs4f?startTime=1684198488000)
 
-In TribeTrack, the tester preferred SF Pro font due to its use in iOS, believed the bright orange color matched well with the SOS button, and preferred a corner radius of 30 degrees as it is more similar to the original design of iOS.
+> In TribeTrack, the tester preferred SF Pro font due to its use in iOS, believed the bright orange color matched well with the SOS button, and preferred a corner radius of 30 degrees as it is more similar to the original design of iOS.
 
 [Cognitive Walkthrough](https://ucla.zoom.us/rec/share/07O7Rt8ozPZWdr8QG_e2u9q2iv8v3CSKXaoE6S9YJ84xJW08-reCoJNTwLlXVZBU.FlWEaXXcA-AW9Qxv)
 
-During the cognitive walkthrough of TribeTrack, issues were discovered with the interaction design, specifically with dragging the geofence area circle. These issues were fixed, and the tester did not encounter any misdirections. The tester found the app's visibility to be good and was able to easily navigate back to previous frames and exit error prevention. The app's operations were found to be simple and easy to understand, and the tester had no suggestions for improvement.
-
-The interactive prototype for "Add New Contact" has been turned into a full interface, and interactions have been added to the "Add a new place" button. The menu bar has been linked to the Safety page, and a new frame has been added to make it easier to drag the geofence for the second task.
+> During the cognitive walkthrough of TribeTrack, issues were discovered with the interaction design, specifically with dragging the geofence area circle. These issues were fixed, and the tester did not encounter any misdirections. The tester found the app's visibility to be good and was able to easily navigate back to previous frames and exit error prevention. The app's operations were found to be simple and easy to understand, and the tester had no suggestions for improvement. The interactive prototype for "Add New Contact" has been turned into a full interface, and interactions have been added to the "Add a new place" button. The menu bar has been linked to the Safety page, and a new frame has been added to make it easier to drag the geofence for the second task.
 
 [New Cognitive Walkthrough](https://docs.google.com/document/d/12C1Y1SDM2Q5JXTp9KjsEScPwSwOfHDjaWI4Pu_XMyrg/edit)
 
-I received feedback from my classmates that helped me improve the usability and visibility of my project. While everyone understood the tasks and goals, there were some minor points of confusion. One issue was that the name "Safety" was not clear enough for users to understand that the page was for emergency calling. I changed the name to "Emergency".
-
-The SOS calling button on the homepage seemed to be associated with the geofence, so I made the drop shadow thicker. The SOS calling button on the "Emergency" page was not clearly identified as a calling button, so I added a phone sign below the SOS, similar to the one on the homepage.
+> I received feedback from my classmates that helped me improve the usability and visibility of my project. While everyone understood the tasks and goals, there were some minor points of confusion. One issue was that the name "Safety" was not clear enough for users to understand that the page was for emergency calling. I changed the name to "Emergency". The SOS calling button on the homepage seemed to be associated with the geofence, so I made the drop shadow thicker. The SOS calling button on the "Emergency" page was not clearly identified as a calling button, so I added a phone sign below the SOS, similar to the one on the homepage.
