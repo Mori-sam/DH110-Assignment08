@@ -119,7 +119,13 @@ The final decision of the graphic design elements are orange color, SF Pro font 
 
 ## High-Fidelity Prototype and Final Design:
 
+[![Final Design](https://mori-sam.github.io/dh110-a7-highfidelity/interaction.png)](https://www.figma.com/file/LUVFanPDicMw6mCunnuDFt/High-Fidelity?type=design&node-id=0%3A1&t=oqqqK9hvjUNTpsGg-1)
+
 During testing of the high-fidelity prototype of TribeTrack, the tester successfully completed two tasks: setting up an emergency call to their mom's phone number through the safety page and setting up a new geofence from the homepage by adding a new place and inputting it as their home address with ease.
+
+<p align="center">
+    <a href="https://www.figma.com/file/LUVFanPDicMw6mCunnuDFt/High-Fidelity?type=design&node-id=0%3A1&t=oqqqK9hvjUNTpsGg-1">Click Here to Access the High-Fidelity Prototype</a>
+</p>
 
 <p align="center">
     <a href="https://mori-sam.github.io/dh110-a7-highfidelity/">Read More about the High-Fidelity Prototype</a>
