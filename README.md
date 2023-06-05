@@ -57,7 +57,7 @@ Using these insights, I was ready to start thinking about potential users for my
 ## UX Storytelling:
 
 <p align="center">
-    <img src="./7451685923456_.pic.jpg" alt="UX Storytelling">
+    [![Final Design]<img src="./7451685923456_.pic.jpg" alt="">](https://www.figma.com/file/35oSaNAcgXsAp27pYjtqUT/User-Persona-Template-(Community)?type=design&t=hloPaYuaEiIcqucd-6)
 </p>
 
 After studying potential users, I developed two personas:
