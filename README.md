@@ -44,7 +44,7 @@ Following this pilot usability test, I gained insight into how a user would inte
 
 After identify potential improvements to Life360, I made the analysis of target users who use this type of app, and conducted an interview to whom he is qualify as a target user.
 
-My findings included that musicians tend to mark up their sheet music with notes about tempo/fingerings, that they like to play with a backing track (with options to slow down or speed up the song), and that playing in groups helped keep musicians motivated to practice.
+TribeTrack's primary target users are families or groups of friends who value privacy, accuracy, and ease of use. The app is suitable for all age groups and can be used for safety, coordination, and emergencies. To ensure accuracy, users need to enable GPS and ensure loved ones have the app installed and permission to share their location.
 
 One observation I made is that people often compare location tracking apps based on their usability and available features. It is crucial to prioritize information security and provide a clear user interface. Additionally, location tracking apps tend to consume a significant amount of battery, which can inconvenience users. I learned a lot from my friend and obtained valuable feedback on how to improve the app's design.
 
