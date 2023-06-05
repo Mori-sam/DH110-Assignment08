@@ -56,9 +56,7 @@ Using these insights, I was ready to start thinking about potential users for my
 
 ## UX Storytelling:
 
-<p align="center">
-    [![Final Design]<img src="./7451685923456_.pic.jpg" alt="">](https://www.figma.com/file/35oSaNAcgXsAp27pYjtqUT/User-Persona-Template-(Community)?type=design&t=hloPaYuaEiIcqucd-6)
-</p>
+[![UXstory]<img src="./7451685923456.pic.jpg" alt="Graphic Design Element Variation">](https://www.figma.com/file/35oSaNAcgXsAp27pYjtqUT/User-Persona-Template-(Community)?type=design&t=hloPaYuaEiIcqucd-6)
 
 After studying potential users, I developed two personas:
 
@@ -73,9 +71,7 @@ Next, I created empathy maps for each persona, as well as two scenarios related 
 
 ## Wireframe and Low-Fidelity Prototype:
 
-<p align="center">
-    <img src="./7461685923489_.pic.jpg" alt="Wireframe and Low-Fidelity Prototype">
-</p>
+[![Wireframe and Low-Fidelity Prototype]<img src="./7461685923489_.pic.jpg" alt="Wireframe and Low-Fidelity Prototype">](https://www.figma.com/file/bXOugTmTdcLJkUJOAWC0Of/DH110-a05?type=whiteboard&t=hloPaYuaEiIcqucd-6)
 
 Using my personas and scenarios and the three tasks in my pilot UT, I created a low-fidelity prototype of my proposed redesign.
 
