@@ -145,7 +145,7 @@ During testing of the high-fidelity prototype of TribeTrack, the tester successf
 
 ## Pitch Video
 
-[![pitch]<img src="./7451685923456_.pic.jpg">](https://ucla.zoom.us/rec/share/BZ6wiS-Dnskm9XMrirOF9qBKUVTZQtkBveApYC0ZK-nD6B-xV18ZstX_S0mOsQhZ.VxoN4f3ZHOzJO3NB?startTime=1686004668000)
+[<img src="./7481686006474_.pic.jpg">](https://ucla.zoom.us/rec/share/BZ6wiS-Dnskm9XMrirOF9qBKUVTZQtkBveApYC0ZK-nD6B-xV18ZstX_S0mOsQhZ.VxoN4f3ZHOzJO3NB?startTime=1686004668000)
 
 ## Conclusion:
 Throughout the quarter of learning to become a UX designer, I enjoyed all the assignments. Initially, I thought the process would only involve designing websites and interfaces, but I was pleasantly surprised to discover that there was much more to it. In addition to designing, the course also covered important concepts such as user testing, interviews, and setting standards for a product. It was fascinating to learn that UX design requires a deep understanding of user needs and behavior, and that usability and accessibility are crucial aspects of any design.
