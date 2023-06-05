@@ -143,6 +143,10 @@ During testing of the high-fidelity prototype of TribeTrack, the tester successf
 
 > I received feedback from my classmates that helped me improve the usability and visibility of my project. While everyone understood the tasks and goals, there were some minor points of confusion. One issue was that the name "Safety" was not clear enough for users to understand that the page was for emergency calling. I changed the name to "Emergency". The SOS calling button on the homepage seemed to be associated with the geofence, so I made the drop shadow thicker. The SOS calling button on the "Emergency" page was not clearly identified as a calling button, so I added a phone sign below the SOS, similar to the one on the homepage.
 
+## Pitch Video
+
+[![pitch](https://lh3.google.com/u/0/d/1dlHNHnnj0almkQvx186uz0zxwA0qfXh2=w2616-h1590-iv1)](https://ucla.zoom.us/rec/share/BZ6wiS-Dnskm9XMrirOF9qBKUVTZQtkBveApYC0ZK-nD6B-xV18ZstX_S0mOsQhZ.VxoN4f3ZHOzJO3NB?startTime=1686004668000)
+
 ## Conclusion:
 Throughout the quarter of learning to become a UX designer, I enjoyed all the assignments. Initially, I thought the process would only involve designing websites and interfaces, but I was pleasantly surprised to discover that there was much more to it. In addition to designing, the course also covered important concepts such as user testing, interviews, and setting standards for a product. It was fascinating to learn that UX design requires a deep understanding of user needs and behavior, and that usability and accessibility are crucial aspects of any design.
 
