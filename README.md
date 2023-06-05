@@ -56,6 +56,10 @@ Using these insights, I was ready to start thinking about potential users for my
 
 ## UX Storytelling:
 
+<p align="center">
+    <img src="./7451685923456_.pic.jpg" alt="UX Storytelling">
+</p>
+
 After studying potential users, I developed two personas:
 
 - Sarah: Sarah is a busy working mother who wants to teach her children independence and safety. She uses a location tracking and driving safety app to keep track of her children's whereabouts and driving habits without being too intrusive. The app has given her peace of mind and helped her balance her desire for her children's freedom and safety.
@@ -68,6 +72,10 @@ Next, I created empathy maps for each persona, as well as two scenarios related 
 </p>
 
 ## Wireframe and Low-Fidelity Prototype:
+
+<p align="center">
+    <img src="" alt="Wireframe and Low-Fidelity Prototype">
+</p>
 
 Using my personas and scenarios and the three tasks in my pilot UT, I created a low-fidelity prototype of my proposed redesign.
 
