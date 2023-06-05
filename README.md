@@ -101,9 +101,7 @@ Once I set up the low-fidelity prototype, I had my roommate test it to ensure th
 
 ## Graphic Design Element Variation:
 
-<p align="center">
-    <img src="https://mori-sam.github.io/dh110_a06_sp2023/design.png" alt="Graphic Design Element Variation">
-</p>
+[<img src="https://mori-sam.github.io/dh110_a06_sp2023/design.png" alt="VARIATION">](https://www.figma.com/file/U07YL4kGPMfyTEevHMFJdS/Interface-Design?type=design&t=hloPaYuaEiIcqucd-6)
 
 The objective of the TribeTrack interface is to create a consistent and cohesive design language, integrating design elements such as font, shape, color, and layout to enhance the wireframe and improve the user experience. The app focuses on tracking family members, creating customized geofences, and providing emergency calling functionality, requiring more words and settings interactions than graphic interactions for a clear and concise user interface.
 
