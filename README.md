@@ -71,7 +71,7 @@ Next, I created empathy maps for each persona, as well as two scenarios related 
 
 ## Wireframe and Low-Fidelity Prototype:
 
-[![Wireframe and Low-Fidelity Prototype]<img src="./7461685923489_.pic.jpg" alt="Wireframe and Low-Fidelity Prototype">](https://www.figma.com/file/bXOugTmTdcLJkUJOAWC0Of/DH110-a05?type=whiteboard&t=hloPaYuaEiIcqucd-6)
+[<img src="./7461685923489_.pic.jpg" alt="Wireframe and Low-Fidelity Prototype">](https://www.figma.com/file/bXOugTmTdcLJkUJOAWC0Of/DH110-a05?type=whiteboard&t=hloPaYuaEiIcqucd-6)
 
 Using my personas and scenarios and the three tasks in my pilot UT, I created a low-fidelity prototype of my proposed redesign.
 
@@ -115,7 +115,7 @@ The final decision of the graphic design elements are orange color, SF Pro font 
 
 ## High-Fidelity Prototype and Final Design:
 
-[![Final Design]<img src="./7471685944375_.pic.jpg" alt="Graphic Design Element Variation">](https://www.figma.com/file/LUVFanPDicMw6mCunnuDFt/High-Fidelity?type=design&node-id=0%3A1&t=oqqqK9hvjUNTpsGg-1)
+[<img src="./7471685944375_.pic.jpg" alt="Graphic Design Element Variation">](https://www.figma.com/file/LUVFanPDicMw6mCunnuDFt/High-Fidelity?type=design&node-id=0%3A1&t=oqqqK9hvjUNTpsGg-1)
 
 During testing of the high-fidelity prototype of TribeTrack, the tester successfully completed two tasks: setting up an emergency call to their mom's phone number through the safety page and setting up a new geofence from the homepage by adding a new place and inputting it as their home address with ease.
 
